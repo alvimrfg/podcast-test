@@ -21,5 +21,5 @@ jobs:
           git config user.name alvimrfg
           git config user.email rafg@outlook.com
           git add .
-          git comit -m "Modified Feed"
+          git commit -m "Modified Feed"
           git push
